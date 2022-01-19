@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>开始写博客</title>
+      <link href="/2022/01/19/%E5%BC%80%E5%A7%8B%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2022/01/19/%E5%BC%80%E5%A7%8B%E5%86%99%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<p>19年开始在安全公司工作，博客主要记录个人的一些文章，仅代表个人的看法，不代表任何公司。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 杂谈 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 杂谈 </tag>
+            
+            <tag> 安全 </tag>
+            
+            <tag> 威胁情报 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2022/01/07/hello-world/"/>
       <url>/2022/01/07/hello-world/</url>

@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>1985-10-26T08:15:00.000Z</updated>
+  <updated>2022-01-19T15:56:26.840Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>开始写博客</title>
+    <link href="http://example.com/2022/01/19/%E5%BC%80%E5%A7%8B%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://example.com/2022/01/19/%E5%BC%80%E5%A7%8B%E5%86%99%E5%8D%9A%E5%AE%A2/</id>
+    <published>2022-01-19T15:52:52.827Z</published>
+    <updated>2022-01-19T15:56:26.840Z</updated>
+    
+    <content type="html"><![CDATA[<p>19年开始在安全公司工作，博客主要记录个人的一些文章，仅代表个人的看法，不代表任何公司。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;19年开始在安全公司工作，博客主要记录个人的一些文章，仅代表个人的看法，不代表任何公司。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="杂谈" scheme="http://example.com/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="杂谈" scheme="http://example.com/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="安全" scheme="http://example.com/tags/%E5%AE%89%E5%85%A8/"/>
+    
+    <category term="威胁情报" scheme="http://example.com/tags/%E5%A8%81%E8%83%81%E6%83%85%E6%8A%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
